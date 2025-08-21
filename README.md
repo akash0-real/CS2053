@@ -1,1 +1,1 @@
-This is a clg repo of java 
+My College's repo of java with OOPS
